@@ -1,6 +1,6 @@
 extends HTTPRequest
 
-var token := "NzEzNDUyMDI3ODQxMjE2NTQz.XuoURQ.KBMdQ0DUZsgX2K-4JtW8UzIgxaY" # Make sure to actually replace this with your token!
+var token := "YourTokenHere" # Make sure to actually replace this with your token!
 var client : WebSocketClient
 var heartbeat_interval : float
 var last_sequence : float
